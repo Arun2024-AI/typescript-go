@@ -1,5 +1,5 @@
 // Rename this file 'settings.json' or merge its
-// contents into your existing settings.
+
 {
     "[typescript][typescriptreact][javascript][javascriptreact][json][jsonc][yaml][github-actions-workflow]": {
         "editor.defaultFormatter": "dprint.dprint",
